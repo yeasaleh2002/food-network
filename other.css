@@ -1,0 +1,37 @@
+
+
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+ 
+
+
+
+font-family: 'Poppins', sans-serif;
+
+
+
+.section-2{
+
+    display: flex;
+
+}
+
+
+
+
+
+<section class="section-2">
+
+
+<div class="dividing-control">
+
+  <img src="Person Image.png" alt="">
+      
+  </div>
+
+
+
+</section>
+
+
